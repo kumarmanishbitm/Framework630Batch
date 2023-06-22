@@ -1,0 +1,296 @@
+[INFO ] 2023-06-19 06:46:24.126 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 06:46:24.515 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 06:46:24.708 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 06:46:25.003 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-19 06:46:25.042 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 06:46:25.046 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-19 06:50:23.742 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 06:50:24.065 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 06:50:24.259 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 06:53:27.402 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 06:53:27.815 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 06:53:27.978 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 06:53:28.249 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-19 06:53:28.326 [main] Framework630batch - VerifyLogin - Failed
+[INFO ] 2023-06-19 06:54:40.307 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 06:54:40.671 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 06:54:40.853 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 06:54:41.090 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-19 06:54:41.145 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 06:54:41.148 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-19 07:02:56.319 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 07:02:56.686 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 07:02:56.907 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 07:02:57.241 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-19 07:02:57.535 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:02:57.541 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-19 07:03:59.916 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 07:04:00.367 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 07:04:00.587 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 07:04:00.840 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-19 07:04:00.878 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:04:01.139 [main] Framework630batch - Clicked on Product Name.
+[INFO ] 2023-06-19 07:04:01.337 [main] Framework630batch - Clicked on AddToCart Btn.
+[INFO ] 2023-06-19 07:04:01.369 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-19 07:04:01.369 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-19 07:09:00.557 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 07:09:00.885 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 07:09:01.093 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 07:09:01.380 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-19 07:09:01.459 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:09:02.175 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-19 07:09:02.340 [main] Framework630batch - Clicked on Cart button.
+[INFO ] 2023-06-19 07:09:02.506 [main] Framework630batch - Clicked on CheckOut button.
+[INFO ] 2023-06-19 07:09:02.517 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:09:02.517 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-19 07:15:13.679 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 07:15:14.098 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 07:15:14.311 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 07:15:14.586 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-19 07:15:14.657 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:15:14.986 [main] Framework630batch - clicked On Produc tName
+[INFO ] 2023-06-19 07:15:15.281 [main] Framework630batch - clicked On AddToCart Btn
+[INFO ] 2023-06-19 07:15:15.327 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-19 07:15:15.816 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:15:16.093 [main] Framework630batch - First name entered.
+[INFO ] 2023-06-19 07:15:16.277 [main] Framework630batch - Last name entered.
+[INFO ] 2023-06-19 07:15:16.439 [main] Framework630batch - Zip Code entered.
+[INFO ] 2023-06-19 07:15:21.621 [main] Framework630batch - clicked On Continue Btn
+[INFO ] 2023-06-19 07:15:21.639 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:15:21.639 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-19 07:18:30.954 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 07:18:31.421 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 07:18:31.616 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 07:18:31.859 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-19 07:18:31.926 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:18:32.703 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-19 07:18:33.127 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:18:38.871 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:18:39.136 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-19 07:23:40.071 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 07:23:40.414 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 07:23:40.639 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 07:23:40.943 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-19 07:23:40.961 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:23:41.556 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-19 07:23:41.972 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:23:42.901 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:24:21.187 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 07:24:21.514 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 07:24:21.715 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 07:24:22.011 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-19 07:24:22.057 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:24:22.823 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-19 07:24:23.157 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:24:23.974 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:28:06.935 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-19 07:28:07.299 [main] Framework630batch - Username entered
+[INFO ] 2023-06-19 07:28:07.510 [main] Framework630batch - Password entered
+[INFO ] 2023-06-19 07:28:07.795 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-19 07:28:07.822 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:28:08.326 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-19 07:28:08.781 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-19 07:28:10.073 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:27:13.458 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:27:13.947 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:27:14.094 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:27:14.291 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:27:14.313 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:27:14.693 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:27:14.974 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:27:15.568 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:30:03.552 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:30:03.824 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:30:03.996 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:30:04.299 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:30:04.320 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:30:04.872 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:30:05.236 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:30:06.085 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:30:06.653 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:35:41.525 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:35:41.853 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:35:42.051 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:35:42.347 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:35:42.391 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:35:43.122 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:35:43.645 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:35:44.374 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:35:44.623 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:43:00.257 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:43:00.727 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:43:00.936 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:43:01.323 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:43:01.390 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:02.111 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:43:02.313 [main] Framework630batch - Clicked on Cart button.
+[INFO ] 2023-06-20 06:43:02.554 [main] Framework630batch - Clicked on CheckOut button.
+[INFO ] 2023-06-20 06:43:02.591 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:02.591 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:43:08.682 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:43:08.938 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:43:09.122 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:43:09.391 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:43:09.436 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:10.156 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:43:10.598 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:11.294 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:11.507 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:43:17.098 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:43:17.390 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:43:17.578 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:43:17.874 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:43:18.020 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:18.344 [main] Framework630batch - clicked On Produc tName
+[INFO ] 2023-06-20 06:43:18.575 [main] Framework630batch - clicked On AddToCart Btn
+[INFO ] 2023-06-20 06:43:18.598 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:43:19.033 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:19.211 [main] Framework630batch - First name entered.
+[INFO ] 2023-06-20 06:43:19.424 [main] Framework630batch - Last name entered.
+[INFO ] 2023-06-20 06:43:19.575 [main] Framework630batch - Zip Code entered.
+[INFO ] 2023-06-20 06:43:31.326 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:43:31.599 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:43:31.765 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:43:32.007 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:43:32.036 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:32.039 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:43:37.491 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:43:37.715 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:43:37.882 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:43:38.145 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:43:38.177 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:38.687 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:43:39.008 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:44.801 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:44.959 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:43:50.246 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:43:50.467 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:43:50.649 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:43:50.908 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:43:50.946 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:43:51.378 [main] Framework630batch - Clicked on Product Name.
+[INFO ] 2023-06-20 06:43:51.553 [main] Framework630batch - Clicked on AddToCart Btn.
+[INFO ] 2023-06-20 06:43:51.573 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:43:51.573 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:47:53.052 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:47:53.384 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:47:53.661 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:47:54.006 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:47:54.230 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:47:55.097 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:47:55.320 [main] Framework630batch - Clicked on Cart button.
+[INFO ] 2023-06-20 06:47:55.485 [main] Framework630batch - Clicked on CheckOut button.
+[INFO ] 2023-06-20 06:47:55.514 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:47:55.515 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:48:01.131 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:48:01.450 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:48:01.618 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:48:01.879 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:48:01.914 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:48:02.327 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:48:02.726 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:48:03.516 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:48:03.743 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:48:08.840 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:48:09.096 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:48:09.285 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:48:09.537 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:48:09.589 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:48:09.845 [main] Framework630batch - clicked On Produc tName
+[INFO ] 2023-06-20 06:48:10.052 [main] Framework630batch - clicked On AddToCart Btn
+[INFO ] 2023-06-20 06:48:10.076 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:48:10.495 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:48:10.814 [main] Framework630batch - First name entered.
+[INFO ] 2023-06-20 06:48:10.964 [main] Framework630batch - Last name entered.
+[INFO ] 2023-06-20 06:48:11.115 [main] Framework630batch - Zip Code entered.
+[INFO ] 2023-06-20 06:48:16.298 [main] Framework630batch - clicked On Continue Btn
+[INFO ] 2023-06-20 06:48:16.336 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:48:16.336 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:48:21.897 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:48:22.161 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:48:22.349 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:48:22.587 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:48:22.636 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:48:22.637 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:48:27.733 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:48:28.033 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:48:28.208 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:48:28.453 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:48:28.514 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:48:29.071 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:48:29.419 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:48:35.248 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:48:35.404 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:48:40.603 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:48:40.856 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:48:41.031 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:48:41.273 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:48:41.307 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:48:41.556 [main] Framework630batch - Clicked on Product Name.
+[INFO ] 2023-06-20 06:48:41.891 [main] Framework630batch - Clicked on AddToCart Btn.
+[INFO ] 2023-06-20 06:48:41.911 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:48:41.911 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 06:54:45.677 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 06:54:46.045 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 06:54:46.215 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 06:54:46.480 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 06:54:46.530 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:54:47.314 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 06:54:47.655 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:54:48.387 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 06:54:48.621 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 07:01:10.761 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 07:01:11.083 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 07:01:11.280 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 07:01:11.577 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 07:01:11.636 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 07:01:12.137 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 07:01:12.633 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 07:01:13.383 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 07:01:13.623 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 07:03:28.194 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 07:03:28.492 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 07:03:28.696 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 07:03:28.961 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 07:03:29.020 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 07:03:29.626 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 07:03:30.121 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 07:03:30.911 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 07:03:31.154 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-20 07:08:11.283 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 07:08:11.607 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 07:08:11.795 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 07:08:12.048 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 07:08:12.114 [main] Framework630batch - VerifyLogin - Failed
+[INFO ] 2023-06-20 07:13:16.721 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 07:13:17.738 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 07:13:18.040 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 07:13:18.462 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 07:13:18.523 [main] Framework630batch - VerifyLogin - Failed
+[INFO ] 2023-06-20 07:15:03.745 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-20 07:15:04.075 [main] Framework630batch - Username entered
+[INFO ] 2023-06-20 07:15:04.280 [main] Framework630batch - Password entered
+[INFO ] 2023-06-20 07:15:04.563 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-20 07:15:04.627 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 07:15:05.264 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-20 07:15:05.997 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 07:15:06.722 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-20 07:15:07.175 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-21 06:55:28.480 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-21 06:55:30.836 [main] Framework630batch - Username entered
+[INFO ] 2023-06-21 06:55:31.585 [main] Framework630batch - Password entered
+[INFO ] 2023-06-21 06:55:31.941 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-21 06:55:32.080 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-21 06:55:32.561 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-21 06:55:32.806 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-21 06:55:33.577 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-21 06:55:33.783 [main] Framework630batch - Browser Closed.
+[INFO ] 2023-06-21 06:57:17.383 [main] Framework630batch - URL Opened
+[INFO ] 2023-06-21 06:57:17.891 [main] Framework630batch - Username entered
+[INFO ] 2023-06-21 06:57:18.365 [main] Framework630batch - Password entered
+[INFO ] 2023-06-21 06:57:18.920 [main] Framework630batch - Clicked on Login button.
+[INFO ] 2023-06-21 06:57:18.968 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-21 06:57:19.261 [main] Framework630batch - VerifyProductP - Passed
+[INFO ] 2023-06-21 06:57:19.526 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-21 06:57:20.260 [main] Framework630batch - VerifyLogin - Passed
+[INFO ] 2023-06-21 06:57:20.509 [main] Framework630batch - Browser Closed.
